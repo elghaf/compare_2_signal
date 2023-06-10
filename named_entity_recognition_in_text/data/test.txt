@@ -1,0 +1,809 @@
+Mme O
+YASSINE B-PERSON
+ELKORCHI I-PERSON
+
+Démeurant O
+à O
+: O
+Quartier B-LOC
+Industriel I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+PE B-cin
+587118 I-cin
+
+Né O
+le O
+28.04.1953 B-date
+à O
+Mohammedia O
+
+Mr. O
+NAOUAL B-PERSON
+NOUINI I-PERSON
+
+Démeurant O
+à O
+: O
+Quartier B-LOC
+Douar I-LOC
+Rja I-LOC
+Fellah I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+CIN O
+NS260057 B-cin
+
+Né O
+le O
+03.06.1971 B-date
+à O
+Ait O
+
+Mme O
+FATIMA B-PERSON
+BEKKAL I-PERSON
+
+Démeurant O
+à O
+: O
+33 B-LOC
+Quartier I-LOC
+Dakhla I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+CIN O
+SH399857 B-cin
+
+Né O
+le O
+19.04.1982 B-date
+à O
+Ad O
+
+Mme O
+YAHYA B-PERSON
+ABDENNOUR I-PERSON
+BENKORDA I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+Al I-LOC
+Ghazali I-LOC
+Quartier I-LOC
+Extension I-LOC
+Dakhla I-LOC
+Tamdid I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+CIN O
+DH183103 B-cin
+
+Né O
+le O
+25.09.1989 B-date
+à O
+Nador O
+
+Mr. O
+KHALID B-PERSON
+BOUBSSILA I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+Al I-LOC
+Manssour I-LOC
+Eddahbi I-LOC
+Quartier I-LOC
+Dakhla I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+DG B-cin
+213156 I-cin
+
+Né O
+le O
+04.11.1956 B-date
+à O
+Rabat O
+
+Mr. O
+SALIM B-PERSON
+DAHBI I-PERSON
+
+Démeurant O
+à O
+: O
+Quartier B-LOC
+Douar I-LOC
+Rja I-LOC
+Fellah I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+PR B-cin
+587026 I-cin
+
+Né O
+le O
+14.09.1981 B-date
+à O
+Zawyat O
+
+Mr. O
+DOUNIA B-PERSON
+ECHARA I-PERSON
+
+Démeurant O
+à O
+: O
+Quartier B-LOC
+Dakhla I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+CIN O
+BK538297 B-cin
+
+Né O
+le O
+18.03.1955 B-date
+à O
+Imzouren O
+
+Mr. O
+KHALIL B-PERSON
+CHEMRAH I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+Bir I-LOC
+Anzarane I-LOC
+Quartier I-LOC
+Ben I-LOC
+Sergaw I-LOC
+Agadir I-LOC
+
+CIN O
+VG568796 B-cin
+
+Né O
+le O
+18.08.1968 B-date
+à O
+Oulad O
+
+Mme O
+SOUKAINA B-PERSON
+AMASSMIR I-PERSON
+
+Démeurant O
+à O
+: O
+Quartier B-LOC
+Ben I-LOC
+Sergaw I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+BO B-cin
+308547 I-cin
+
+Né O
+le O
+30.07.1950 B-date
+à O
+Sidi O
+
+Mr. O
+OUMAIMA B-PERSON
+BOUJELLABA I-PERSON
+
+Démeurant O
+à O
+: O
+Quartier B-LOC
+Ben I-LOC
+Sergaw I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+CIN O
+CL585690 B-cin
+
+Né O
+le O
+16.10.1963 B-date
+à O
+Tit O
+
+Mme O
+FATIMAZAHRAE B-PERSON
+EL I-PERSON
+FADEL I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+Kadi I-LOC
+Ayad I-LOC
+Quartier I-LOC
+Oued I-LOC
+Dahab I-LOC
+Agadir I-LOC
+
+CIN O
+IH114019 B-cin
+
+Né O
+le O
+26.10.1988 B-date
+à O
+Azrou O
+
+Mme O
+ALAE B-PERSON
+FIHRI I-PERSON
+
+Démeurant O
+à O
+: O
+Quartier B-LOC
+Oued I-LOC
+Dahab I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+HF B-cin
+455259 I-cin
+
+Né O
+le O
+20.11.1956 B-date
+à O
+Kenitra O
+
+Mr. O
+ADNANE B-PERSON
+AGUENNOUZ I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+D I-LOC
+Ecole I-LOC
+Quartier I-LOC
+Oued I-LOC
+Dahab I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+LZ B-cin
+574854 I-cin
+
+Né O
+le O
+07.04.1987 B-date
+à O
+Safi O
+
+Mme O
+AHMED B-PERSON
+ELANAKDI I-PERSON
+
+Démeurant O
+à O
+: O
+Quartier B-LOC
+Prince I-LOC
+Héritier I-LOC
+amicale I-LOC
+Des I-LOC
+Fonctionnaires I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+FG B-cin
+406254 I-cin
+
+Né O
+le O
+25.11.1983 B-date
+à O
+Douar O
+
+Mr. O
+HAJAR B-PERSON
+BELLOUCH I-PERSON
+
+Démeurant O
+à O
+: O
+Quartier B-LOC
+Prince I-LOC
+Héritier I-LOC
+amicale I-LOC
+Des I-LOC
+Fonctionnaires I-LOC
+Agadir I-LOC
+
+CIN O
+QF425281 B-cin
+
+Né O
+le O
+21.02.1959 B-date
+à O
+Ouaoula O
+
+Mme O
+MEHDI B-PERSON
+BOULLAHI I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+D I-LOC
+Ecole I-LOC
+Quartier I-LOC
+Prince I-LOC
+Héritier I-LOC
+amicale I-LOC
+Des I-LOC
+Fonctionnaires I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+II B-cin
+112615 I-cin
+
+Né O
+le O
+19.01.1952 B-date
+à O
+Azrou O
+
+Mme O
+DOUNYAE B-PERSON
+EL I-PERSON
+MAADANI I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+Ibn I-LOC
+Batouta I-LOC
+Quartier I-LOC
+Prince I-LOC
+Héritier I-LOC
+amicale I-LOC
+Des I-LOC
+Fonctionnaires I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+YX B-cin
+561603 I-cin
+
+Né O
+le O
+21.01.1958 B-date
+à O
+Wislane O
+
+Mme O
+SOUFYANE B-PERSON
+AAROCHE I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+Moulay I-LOC
+Ali I-LOC
+Chrif I-LOC
+Quartier I-LOC
+Prince I-LOC
+Héritier I-LOC
+amicale I-LOC
+Des I-LOC
+Fonctionnaires I-LOC
+Agadir I-LOC
+
+CIN O
+XE589524 B-cin
+
+Né O
+le O
+12.02.1961 B-date
+à O
+Al O
+
+Mme O
+MOHAMED B-PERSON
+ELGHARBI I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+Chtouka I-LOC
+Quartier I-LOC
+Prince I-LOC
+Héritier I-LOC
+amicale I-LOC
+Des I-LOC
+Fonctionnaires I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+AQ B-cin
+193998 I-cin
+
+Né O
+le O
+19.09.1967 B-date
+à O
+Bouskoura O
+
+Mr. O
+ZAKARIAE B-PERSON
+ISFI I-PERSON
+
+Démeurant O
+à O
+: O
+Rue B-LOC
+Boulfaa I-LOC
+Quartier I-LOC
+Oued I-LOC
+Dahab I-LOC
+Agadir I-LOC
+
+CIN O
+TK158064 B-cin
+
+Né O
+le O
+04.02.1998 B-date
+à O
+Tit O
+
+Mme O
+AMINE B-PERSON
+HDIDI I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+Ibn I-LOC
+Batouta I-LOC
+Quartier I-LOC
+Prince I-LOC
+Héritier I-LOC
+amicale I-LOC
+Des I-LOC
+Fonctionnaires I-LOC
+Agadir I-LOC
+
+CIN O
+IA448830 B-cin
+
+Né O
+le O
+21.02.1970 B-date
+à O
+Demnat O
+
+Mr. O
+AMAL B-PERSON
+AMAIOUA I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+Ibn I-LOC
+Batouta I-LOC
+Quartier I-LOC
+Prince I-LOC
+Héritier I-LOC
+amicale I-LOC
+Des I-LOC
+Fonctionnaires I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+CP B-cin
+415053 I-cin
+
+Né O
+le O
+05.03.1997 B-date
+à O
+Ad O
+
+Mme O
+WIAM B-PERSON
+EZZARADI I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+Hassan I-LOC
+I I-LOC
+Quartier I-LOC
+Prince I-LOC
+Héritier I-LOC
+amicale I-LOC
+Des I-LOC
+Fonctionnaires I-LOC
+Agadir I-LOC
+
+CIN O
+XN531929 B-cin
+
+Né O
+le O
+27.12.1962 B-date
+à O
+Beni O
+
+Mme O
+MAJID B-PERSON
+EL I-PERSON
+JABOURI I-PERSON
+
+Démeurant O
+à O
+: O
+Rue B-LOC
+Oued I-LOC
+Ziz I-LOC
+Hay I-LOC
+Sidi I-LOC
+Youssef I-LOC
+Quartier I-LOC
+Sidi I-LOC
+Youssef I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+CIN O
+FA231080 B-cin
+
+Né O
+le O
+08.12.1977 B-date
+à O
+Dar O
+
+Mr. O
+MOHAMMED B-PERSON
+AMINE I-PERSON
+ELAASRY I-PERSON
+
+Démeurant O
+à O
+: O
+Quartier B-LOC
+Sidi I-LOC
+Youssef I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+LC B-cin
+115582 I-cin
+
+Né O
+le O
+16.05.1999 B-date
+à O
+El O
+
+Mr. O
+ISSAM B-PERSON
+KAABOUCHE I-PERSON
+
+Démeurant O
+à O
+: O
+Quartier B-LOC
+Sidi I-LOC
+Youssef I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+CIN O
+SI341816 B-cin
+
+Né O
+le O
+07.04.1954 B-date
+à O
+Temsia O
+
+Mme O
+Omar B-PERSON
+AGACHOUR I-PERSON
+
+Démeurant O
+à O
+: O
+Avenue B-LOC
+Al I-LOC
+Hamra I-LOC
+Mohamed I-LOC
+Ben I-LOC
+Brahim I-LOC
+Quartier I-LOC
+Sidi I-LOC
+Youssef I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+CIN O
+VE150972 B-cin
+
+Né O
+le O
+09.10.1994 B-date
+à O
+Moulay O
+
+Mme O
+hayat B-PERSON
+ZERHOUNI I-PERSON
+
+Démeurant O
+à O
+: O
+Rue B-LOC
+Oued I-LOC
+Nfis I-LOC
+Quartier I-LOC
+Industriel I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+CIN O
+QL237788 B-cin
+
+Né O
+le O
+04.05.1995 B-date
+à O
+Essaouira O
+
+Mme O
+Hayat B-PERSON
+AARAB I-PERSON
+
+Démeurant O
+à O
+: O
+Rue B-LOC
+Oued I-LOC
+Ziz I-LOC
+Quartier I-LOC
+Sidi I-LOC
+Youssef I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+BA B-cin
+412136 I-cin
+
+Né O
+le O
+14.09.1986 B-date
+à O
+Taroudannt O
+
+Mme O
+Omar B-PERSON
+EL I-PERSON
+MARSANI I-PERSON
+
+Démeurant O
+à O
+: O
+130 B-LOC
+Rue I-LOC
+Doujda I-LOC
+Quartier I-LOC
+Industriel I-LOC
+CP I-LOC
+80000 I-LOC
+Agadir I-LOC
+
+Carte O
+de O
+séjour O
+N° O
+KV B-cin
+119448 I-cin
+
+Né O
+le O
+28.08.1961 B-date
+à O
+Khénifra O
+

@@ -1,0 +1,29 @@
+In this data science challenge focused on online signature verification, also known as biometric signature verification, participants are tasked with analyzing and classifying signatures for authentication purposes. The folder labeling follows a specific structure to organize the data effectively.
+
+the labeling of folder are like that 
+
+*Task 1:
+ 
+	-U{id of user}S{id of signature}
+
+	-U21S10 means user id 21 signature N° 10
+
+	-the 1st line of signature file , is the total number of lines
+
+- signature is written as followed :
+
+	x-coordinate, y-coordinate, time stamp, button status, azimuth, altitude, pressure
+
+Dictionary :  
+
+
+  X-coordinate  - scaled cursor position along the x-axis
+  Y-coordinate  - scaled cursor position along the y-axis
+  Time stamp    - system time at which the event was posted
+  Button status - current button status (0 for pen-up and
+                  1 for pen-down)
+  Azimuth       - clockwise rotation of cursor about the z-axis : https://en.wikipedia.org/wiki/Azimuth 
+  Altitude      - angle upward toward the positive z-axis
+  Pressure      - adjusted state of the normal pressure
+
+
